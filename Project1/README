@@ -1,0 +1,84 @@
+Interactive Quiz App
+Description
+The Interactive Quiz App is a dynamic web-based application that allows users to test their knowledge through a series of multiple-choice questions. The app highlights correct answers, tracks the score, and provides feedback at the end of the quiz. It is built with HTML, CSS, and JavaScript/jQuery.
+
+Features
+Dynamically loads quiz questions and answer options.
+Highlights the correct answer and shows feedback after each question.
+Keeps track of the user's score.
+Fully responsive design with a modern, attractive UI.
+Easy navigation through questions with a "Next" button.
+Project Structure
+bash
+Copy
+Edit
+Interactive Quiz App/
+│
+├── index.html          # Main HTML file for the quiz app
+├── css/
+│   └── style.css       # Styling for the quiz app
+├── js/
+│   └── script.js       # Logic and functionality of the quiz app
+└── README.md           # Project documentation
+Technologies Used
+HTML5: Structure of the web application.
+CSS3: Styling and animations for an enhanced user experience.
+JavaScript: Application logic, including dynamic question handling.
+jQuery: DOM manipulation and event handling.
+Getting Started
+Prerequisites
+To run this project, you only need a web browser that supports JavaScript.
+
+Setup
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/interactive-quiz-app.git
+Navigate to the project folder:
+bash
+Copy
+Edit
+cd interactive-quiz-app
+Open index.html in your web browser:
+bash
+Copy
+Edit
+open index.html
+Usage
+The app will load the first question when opened.
+Select an option to see if your answer is correct or wrong.
+Click the Next button to navigate to the next question.
+At the end of the quiz, your score will be displayed.
+Screenshots
+Home Screen
+
+Question with Options
+
+Contributing
+Contributions are welcome! Follow these steps to contribute:
+
+Fork the repository.
+Create a new branch:
+bash
+Copy
+Edit
+git checkout -b feature-name
+Commit your changes:
+bash
+Copy
+Edit
+git commit -m "Add your message here"
+Push to the branch:
+bash
+Copy
+Edit
+git push origin feature-name
+Open a pull request.
+
+Contact
+For any inquiries or feedback, please reach out:
+
+Name: Bhumika Nikam
+Email: nikambhumika1602@gmail.com
+GitHub: Bhumikanikam
